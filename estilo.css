@@ -1,0 +1,137 @@
+.btn-purple {
+    background: rgb(138, 5, 190);
+    color: white;
+}
+
+.container {
+    position: relative;
+}
+
+.mt-20 {
+    margin-bottom: 20px;
+}
+
+.w-85 {
+    width: 85%;
+}
+.add-image {
+    background: #e0e0e0;
+    border-radius: 10px;
+    padding: 100px;
+    margin-bottom: 10px;
+}
+
+.btn-purple:hover {
+    color: white;
+}
+.btn-white {
+    background: white;
+}
+
+button {
+    text-transform: uppercase;
+}
+
+strong {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+input {
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+select {
+    width: 50%;
+    height: 30px;
+}
+
+p {
+    text-align: center;
+}
+.nav-link:hover {
+    color: rgb(138, 5, 190) !important;
+}
+
+.navbar-brand {
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.navbar-brand:hover {
+    color: rgb(138, 5, 190) !important;
+}
+
+a {
+    color: white;
+    text-decoration: none !important;
+    padding: 0 20px;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: white;
+}
+
+.linkCadastro {
+    font-size: 11px;
+    color: black;
+    font-weight: bold;
+}
+
+.linkCadastro:hover {
+    color: rgb(138, 5, 190);
+}
+
+.mt-70 {
+    margin-top: 70px;
+}
+
+.linkLogin {
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
+
+.linkLogin:hover {
+    color: rgb(138, 5, 190);
+}
+.img-quiz {
+    border-radius: 10px;
+}
+
+.navbar {
+    background-color: rgb(138, 5, 190);
+    padding: 0
+}
+
+.navbar .nav-item a {
+    padding: 23px 0;
+}
+
+.navbar a {
+    padding: 5px;
+}
+.navbar a:hover {
+    background-color: white;
+}
+
+i {
+    color: white;
+    padding: 0 15px;
+    font-size: 25px;
+}
+
+body {
+    background-color: #efe5f4;
+}
+
+i {
+    color: rgb(138, 5, 190);
+    padding: 0;
+    font-size: 24px;
+}
