@@ -14,6 +14,7 @@
 .w-85 {
     width: 85%;
 }
+
 .add-image {
     background: #e0e0e0;
     border-radius: 10px;
@@ -24,6 +25,7 @@
 .btn-purple:hover {
     color: white;
 }
+
 .btn-white {
     background: white;
 }
@@ -100,8 +102,54 @@ a:hover {
 .linkLogin:hover {
     color: #007bff;
 }
+
 .img-quiz {
     border-radius: 10px;
+}
+
+.answer-quiz {
+    background-color: #dcdcdc;
+    text-align: center;
+    padding: 10px;
+}
+
+.result-quiz {
+    background-color: #dcdcdc;
+    padding: 10px;
+}
+
+.share-quiz {
+
+}
+
+.btn-share {
+    background: #2153b7;
+    border: 1px solid #bbb;
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    border-radius: unset;
+    padding: 10px;
+}
+.btn-answer {
+    border: 1px solid #bbb;
+    width: 32%;
+    color: black;
+    font-weight: bold;
+    border-radius: unset;
+    padding: 10px;
+}
+
+.btn-answer:hover {
+    color: white;
+    background: #007bff;
+}
+
+.result-description {
+    font-weight: 600;
+    font-size: 18px;
+    color: #555;
+    text-align: justify;
 }
 
 .navbar {
