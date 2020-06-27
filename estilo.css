@@ -1,5 +1,5 @@
 .btn-purple {
-    background: rgb(138, 5, 190);
+    background: #007bff;
     color: white;
 }
 
@@ -54,7 +54,7 @@ p {
     text-align: center;
 }
 .nav-link:hover {
-    color: rgb(138, 5, 190) !important;
+    color: #007bff !important;
 }
 
 .navbar-brand {
@@ -63,7 +63,7 @@ p {
 }
 
 .navbar-brand:hover {
-    color: rgb(138, 5, 190) !important;
+    color: #007bff !important;
 }
 
 a {
@@ -84,7 +84,7 @@ a:hover {
 }
 
 .linkCadastro:hover {
-    color: rgb(138, 5, 190);
+    color: #007bff;
 }
 
 .mt-70 {
@@ -98,14 +98,14 @@ a:hover {
 }
 
 .linkLogin:hover {
-    color: rgb(138, 5, 190);
+    color: #007bff;
 }
 .img-quiz {
     border-radius: 10px;
 }
 
 .navbar {
-    background-color: rgb(138, 5, 190);
+    background-color: #007bff;
     padding: 0
 }
 
@@ -120,18 +120,11 @@ a:hover {
     background-color: white;
 }
 
-i {
+.btn-primary i {
     color: white;
-    padding: 0 15px;
-    font-size: 25px;
 }
-
-body {
-    background-color: #efe5f4;
-}
-
 i {
-    color: rgb(138, 5, 190);
+    color: #007bff;
     padding: 0;
     font-size: 24px;
 }
