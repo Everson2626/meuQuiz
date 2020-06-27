@@ -11,8 +11,22 @@
     margin-bottom: 20px;
 }
 
-.w-85 {
-    width: 85%;
+.title-quiz {
+    background: #dcdcdc;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.btn-action {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.w-95 {
+    width: 95%;
 }
 
 .add-image {
@@ -20,6 +34,10 @@
     border-radius: 10px;
     padding: 100px;
     margin-bottom: 10px;
+}
+
+.add-image.question {
+    padding: 97px 100px;
 }
 
 .btn-purple:hover {
@@ -68,6 +86,26 @@ p {
     color: #007bff !important;
 }
 
+.border-register {
+    border: 1px solid #007bff;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.logo-register {
+    color: #007bff;
+    text-transform: uppercase;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.logo-register p {
+    color: #007bff;
+    display: inline;
+    font-size: 40px;
+}
+
 a {
     color: white;
     text-decoration: none !important;
@@ -80,13 +118,30 @@ a:hover {
 }
 
 .linkCadastro {
-    font-size: 11px;
+    font-size: 16px;
     color: black;
     font-weight: bold;
 }
 
 .linkCadastro:hover {
     color: #007bff;
+}
+
+.position-questions {
+    background: #dcdcdc;
+    padding: 5px;
+}
+
+.btn-position {
+    color: black;
+    border: 1px solid #a8a8a8;
+    font-weight: bold;
+}
+
+.btn-position.active{
+    background: #007bff;
+    color: white;
+    border-color: white;
 }
 
 .mt-70 {
@@ -103,28 +158,32 @@ a:hover {
     color: #007bff;
 }
 
-.img-quiz {
-    border-radius: 10px;
-}
-
 .answer-quiz {
     background-color: #dcdcdc;
     text-align: center;
-    padding: 10px;
+    padding: 10px 0;
 }
 
 .result-quiz {
     background-color: #dcdcdc;
     padding: 10px;
 }
+.card {
+    margin-bottom: 20px;
+}
+.card-quiz {
+    background: #007bff;
+    color: white;
+}
 
-.share-quiz {
-
+.logo {
+    font-family: fantasy;
+    font-size: 40px;
 }
 
 .btn-share {
-    background: #2153b7;
-    border: 1px solid #bbb;
+    background: #007bff;
+    border: 1px solid ;
     width: 100%;
     color: white;
     font-weight: bold;
@@ -132,7 +191,7 @@ a:hover {
     padding: 10px;
 }
 .btn-answer {
-    border: 1px solid #bbb;
+    border: 1px solid #a8a8a8;
     width: 32%;
     color: black;
     font-weight: bold;
@@ -143,6 +202,7 @@ a:hover {
 .btn-answer:hover {
     color: white;
     background: #007bff;
+    border-color: white;
 }
 
 .result-description {
